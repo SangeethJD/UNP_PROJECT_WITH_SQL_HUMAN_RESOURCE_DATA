@@ -1,1 +1,5 @@
 # UNP_PROJECT_WITH_SQL_HUMAN_RESOURCE_DATA
+
+Developed a structured SQL database to analyze Human Resources data, including employee profiles, departments, salaries, attendance, and performance metrics. Implemented primary and foreign key constraints to ensure data integrity and used conditional logic to prevent duplicate entries during data import. Conducted analytical queries to derive insights on total payroll costs, average salary by department, employee turnover rates, and promotion trends. Explored workforce demographics such as age, gender, and location to identify patterns in hiring, retention, and diversity. Utilized SQL techniques such as GROUP BY, aggregate functions, filtering, and nested subqueries to generate region-wise staffing analysis and departmental performance reports. This project strengthened my skills in database design, query optimization, and data-driven HR analytics.
+
+PROJECT FILE: https://docs.google.com/document/d/1nsuxtZIzmx5oRsHzy7MuaL4NzQJKbuNb/edit?usp=sharing&ouid=108933900523637843272&rtpof=true&sd=true
